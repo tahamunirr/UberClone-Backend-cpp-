@@ -1,0 +1,7 @@
+p,shahmeer,10-10-2000,shahmeer@hotmail.com,03335854544,card,123-111-234
+d,meher,9-3-1990,meher@gmail.com,03259299689,LIN5136482,VLN415235
+p,ibrahim,11-11-2010, ibrahim@hotmail.com,03335575744,cash,
+p,mustafa,15-5-1992, mustafa@hotmail.com,034757545544,card,114-235-195
+d,ali,18-5-1970, ali@gmail.com,036255754050,LIN4625463,VLN8456152
+p,sana,10-10-2000, sana@hotmail.com,039057875005,cash,
+d,noor,9-3-1990, noor@gmail.com,0387057554,LIN645134,VLN468317
